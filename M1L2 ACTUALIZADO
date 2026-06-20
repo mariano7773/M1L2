@@ -22,4 +22,4 @@ async def heh(ctx, count_heh=5):
 async def _bot(ctx):
     await ctx.send('Yes, sebastian is cool.')
 
-bot.run("MTUxNTM2OTIxODQzMjgyNzQwMg.G3gfo6.kU18NO5AVl_6GBlbfInV5Lmxt6iDi2chnAYPiY")
+bot.run("TOKEN")
